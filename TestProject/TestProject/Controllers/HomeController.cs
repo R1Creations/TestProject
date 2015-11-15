@@ -11,7 +11,7 @@ namespace TestProject.Controllers
 
         public ActionResult Index()
         {
-            ViewBag.Message = "Modify this template to jump-start your ASP.NET MVC application.";
+            ViewBag.Message = "Modify this template to jump-start your A S P.NET MVC application.";
 
             for (int i = 0; i < 11; i++)
             {
